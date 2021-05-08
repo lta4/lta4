@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lta4
-- 👀 I’m interested in Software Engineering/Web Development
+- 👀 I’m interested in Full Stack Development! React | Python | Ruby on Rails | MongoDB | Postgres 
 - 🌱 I’m currently learning Python & Django
-- 💞️ I’m looking to collaborate on freelance!
+- 💞️ I’m looking to collaborate in Front End or Back End Development. Adaptable in any situtation
 - 📫 How to reach me | email: andrew4ld@gmail.com | phone: 818-433-8102
 
 <!---
