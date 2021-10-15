@@ -18,7 +18,7 @@
 <img align="left" alt="aws" src="https://img.shields.io/badge/amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/medium-%23316192.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 <img align="left" alt="gatsby" src="https://img.shields.io/badge/gatsby-%23316192.svg?&style=for-the-badge&logo=gatsby&logoColor=white" />
-<img align="left" alt="postgres" src="https://img.shields.io/badge/postgres-%528AAE?logo=postgres&logoColor=white&style=for-the-badge" />
+<img align="left" alt="postgres" src="https://img.shields.io/badge/postgres-%528AAE.svg?&style=for-the-badge&logo=postgres&logoColor=white&style=for-the-badge" />
 <img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 <br>
 <br>
