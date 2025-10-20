@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Andrew Arias
-- 👀 I’m interested in Full Stack Development! You'll find me using React | Python | Ruby on Rails | Gatsby | MongoDB | Postgres 
-- 🌱 I’m currently learning Django & Python
-- 💞️ I’m looking to collaborate in Front End or Back End Development. Adaptable in any situtation
-- 📫 How to reach me | email: andrew4ld@gmail.com
+- 🧑🏽‍💻 Full Stack Developer passionate about building intuitive, scalable, and user-friendly applications
+- 🚀 Tech Stack: React | Python | Ruby on Rails | Gatsby | MongoDB | PostgreSQL
+- 🌱 Currently Learning: Django & Advancded Python
+- 💞️ Open to Collaborate: Front-End or Back-End Development - adaptable to any situtation
+- 📫 Contact: andrew@fignewt.com
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andrewarias4)
